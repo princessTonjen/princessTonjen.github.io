@@ -3,3 +3,22 @@ html{
     color: rgb(42, 42, 42)
 }
 
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Brush Script MT";
+}
+
+
+  .navbar a {
+    float: left;
+    color: rgb(42, 42, 42);
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    
+    color: rgb(237, 128, 161)
+  }
